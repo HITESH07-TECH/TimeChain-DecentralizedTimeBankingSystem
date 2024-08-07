@@ -1,7 +1,7 @@
 const contractAddresses = {
-  UserManagement: "0x90Bc5d2b1163402a7a47B5b0EB2f9cc20420A883",
-  TimeCredit: "0x2BD48F1f65c95f4D907D3341fdC2b63B62332698",
-  ServiceManagement: "0x82940A60b067a2a9935611A6beBBD952a6ba4B73"
+  UserManagement: "0xf33c718B585d056941Bd0db11b42585382dE5148",
+  TimeCredit: "0xcd88c29fe597F0C9a269C0a5500faa0bCC879739",
+  ServiceManagement: "0xd1343896707853BF47EcbA848c15aB11b8fC9c0B"
 };
 
 export default contractAddresses;
